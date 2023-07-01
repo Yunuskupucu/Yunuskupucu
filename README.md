@@ -18,4 +18,4 @@ Hi, I'm Yunus. I'm interested in web and mobile applications. I'm developing web
 ---
 [![](https://visitcount.itsvg.in/api?id=Yunuskupucu&icon=8&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/Yunuskupucu/Yunuskupucu/blob/output/github-contribution-grid-snake.gif)
