@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Yunus. I'm interested in web and mobile applications. I'm developing web app using JavaScript. I'm also a university student.<br>
+Hi, I'm Yunus. I'm interested in web applications. I'm developing web app using JavaScript. I'm also a university student.<br>
 <br/>
 
 ## 🌐 Socials:
