@@ -18,6 +18,5 @@ Hi, I'm Yunus. I'm interested in web applications. I'm developing web app using 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yunuskupucu&icon=8&color=12)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/Yunuskupucu/Yunuskupucu/blob/output/github-contribution-grid-snake.gif)
 
 
