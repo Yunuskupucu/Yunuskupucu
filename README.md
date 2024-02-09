@@ -13,11 +13,13 @@ Hi, I'm Yunus. I'm interested in web and mobile applications. I'm developing web
 <br/><br/><br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunuskupucu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=Yunuskupucu&icon=8&color=12)](https://visitcount.itsvg.in)
----
+
 [![](https://visitcount.itsvg.in/api?id=Yunuskupucu&icon=8&color=12)](https://visitcount.itsvg.in)
 
-![](https://komarev.com/ghpvc/?username=Yunuskupucu)
+---
+
+![](https://komarev.com/ghpvc/?username=Yunuskupucu&color=blueviolet)
+
 
 
 
