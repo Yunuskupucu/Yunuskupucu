@@ -20,7 +20,8 @@ Hi, I'm Yunus. I'm interested in web and mobile applications. I'm developing web
 
 ![](https://komarev.com/ghpvc/?username=Yunuskupucu&color=blueviolet)
 
-![](https://komarev.com/ghpvc/?Yunuskupucu&label=Profil%20Ziyaret%C3%A7ileri&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Yunuskupucu&label=Profil%20Ziyaret%C3%A7ileri&color=blueviolet&style=flat-square)
+
 
 
 
