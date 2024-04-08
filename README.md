@@ -6,8 +6,8 @@ Hi, I'm Yunus. I'm interested in web and mobile applications. I'm developing web
 <p align="left">
 <a href="https://linkedin.com/in/yunusemrekupucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunusemrekupucu" height="30" width="40" /></a>
 
-<a href="mailto:example@gmail.com">
-  <img align="center" src="https://raw.githubusercontent.com/your-username/your-repository/master/path/to/gmail.svg" alt="Gmail" height="30" width="40" />
+<a href="mailto:yunus.kupucu@gmail.com">
+  <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F17396757-google-mail-icons&psig=AOvVaw2-qPLfO7H1YcL1XLZ1fF2U&ust=1712704057759000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC-9fnds4UDFQAAAAAdAAAAABAE" alt="Gmail" height="30" width="40" />
 </a>
 
 
