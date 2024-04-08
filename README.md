@@ -1,14 +1,12 @@
 # 💫 About Me:
 Hi, I'm Yunus. I'm interested in web and mobile applications. I'm developing web app using JavaScript and mobile app using Swift. I'm also a university student.<br>
 <br/>
-<hr>
 
 ## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/yunusemrekupucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunusemrekupucu" height="30" width="40" /></a>
 </p>
 
-<hr>
 
 ## 👤 Contact
  yunus.kupucu@gmail.com
