@@ -7,7 +7,7 @@ Hi, I'm Yunus. I'm interested in web and mobile applications. I'm developing web
 <a href="https://linkedin.com/in/yunusemrekupucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunusemrekupucu" height="30" width="40" /></a>
 
 <a href="mailto:yunus.kupucu@gmail.com">
-  <img align="center" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F17396757-google-mail-icons&psig=AOvVaw2-qPLfO7H1YcL1XLZ1fF2U&ust=1712704057759000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC-9fnds4UDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Ftr%2Ffree-png-splvr&psig=AOvVaw2-qPLfO7H1YcL1XLZ1fF2U&ust=1712704057759000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC-9fnds4UDFQAAAAAdAAAAABAR)" alt="Gmail" height="30" width="40" />
+  <img align="center" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F17396757-google-mail-icons&psig=AOvVaw2-qPLfO7H1YcL1XLZ1fF2U&ust=1712704057759000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC-9fnds4UDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Ftr%2Ffree-png-splvr&psig=AOvVaw2-qPLfO7H1YcL1XLZ1fF2U&ust=1712704057759000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC-9fnds4UDFQAAAAAdAAAAABAR)](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.m.wikipedia.org%2Fwiki%2FDosya%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw1S1Rpr-lYY1Ycf7yUuMX_M&ust=1712704370852000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCb2I7fs4UDFQAAAAAdAAAAABAE)" alt="Gmail" height="30" width="40" />
 </a>
 
 
