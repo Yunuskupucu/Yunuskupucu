@@ -5,9 +5,12 @@ Hi, I'm Yunus. I'm interested in web and mobile applications. I'm developing web
 ## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/yunusemrekupucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunusemrekupucu" height="30" width="40" /></a>
-  <a href="mailto:example@gmail.com">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+
+<a href="mailto:example@gmail.com">
+  <img align="center" src="https://raw.githubusercontent.com/your-username/your-repository/master/path/to/gmail.svg" alt="Gmail" height="30" width="40" />
 </a>
+
+
 
 </p>
 <br/>
