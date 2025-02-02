@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Yunus. I'm interested in web and mobile applications. I'm developing web app using JavaScript/React and mobile app using Swift. I'm also an university student.<br>
+Hi, I'm Yunus. I'm interested in web and mobile applications. I'm developing web app using React and mobile app using Swift. I'm also an university student.<br>
 <br/>
 
 ## 🌐 Socials:
