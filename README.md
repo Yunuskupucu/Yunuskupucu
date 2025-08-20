@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mozilla+Headline&weight=500&size=30&letterSpacing=0.1rem&pause=1000&color=29AFFF&background=FFFFFF00&center=true&width=1100&height=80&lines=Frontend+%26%26+Swift+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mozilla+Headline&weight=500&size=40&letterSpacing=0.1rem&pause=1000&color=76B7C5&background=FFFFFF00&center=true&vCenter=true&width=1100&height=80&lines=Frontend+%26%26+Swift+Developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
 Hi, I'm Yunus. I'm interested in web and mobile applications. I'm developing web app using React and mobile app using Swift. I'm also an university student.<br>
