@@ -58,12 +58,6 @@ Hi, I'm Yunus. I'm interested in web and mobile applications. I'm developing web
   <a href="https://expressjs.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=express" alt="Express" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
-  </a>
 </div>
 
 ### 📱 Mobil Geliştirme
