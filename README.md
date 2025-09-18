@@ -102,7 +102,6 @@ Hi, I'm Yunus. I'm a university student and a full stack developer interested in
   
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunuskupucu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yunuskupucu&theme=darcula&card_width=200&card_height=180&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
 </div>
 
 
