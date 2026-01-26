@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mozilla+Headline&weight=500&size=40&letterSpacing=0.1rem&pause=1000&color=76B7C5&background=FFFFFF00&center=true&vCenter=true&width=1100&height=80&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
-Hi, I'm Yunus. I'm a university student and a full stack developer interested in web applications. I developing web apps using React & Nodejs.<br>
+Hi, I'm Yunus. I'm a university student and a full stack developer interested in web applications. I develop scalable web applications using React, Next.js, and Node.js, and mobile applications with React Native and Swift.<br>
 <br/>
 
 
@@ -36,7 +36,9 @@ Hi, I'm Yunus. I'm a university student and a full stack developer interested in
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+</a>
   <a href="https://redux.js.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
   </a>
@@ -63,13 +65,18 @@ Hi, I'm Yunus. I'm a university student and a full stack developer interested in
 
 ### 📱 Mobil Geliştirme
 <div align="left">
+  <!-- React Native -->
+<a href="https://reactnative.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
+</a>
+
   <a href="https://developer.apple.com/swift/" target="_blank">
     <img src="https://skillicons.dev/icons?i=swift" alt="Swift" />
   </a>
   <a href="https://developer.apple.com/xcode/" target="_blank">
     <img src="https://skillicons.dev/icons?i=xcode" alt="Xcode" />
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+
 </div>
 
 ### 🛠️ Araçlar & Veritabanları
