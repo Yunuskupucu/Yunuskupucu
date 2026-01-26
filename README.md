@@ -36,6 +36,7 @@ Hi, I'm Yunus. I'm a university student and a full stack developer interested in
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://redux.js.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
   </a>
@@ -68,6 +69,7 @@ Hi, I'm Yunus. I'm a university student and a full stack developer interested in
   <a href="https://developer.apple.com/xcode/" target="_blank">
     <img src="https://skillicons.dev/icons?i=xcode" alt="Xcode" />
   </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 </div>
 
 ### 🛠️ Araçlar & Veritabanları
