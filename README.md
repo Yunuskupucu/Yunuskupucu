@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mozilla+Headline&weight=500&size=40&letterSpacing=0.1rem&pause=1000&color=76B7C5&background=FFFFFF00&center=true&vCenter=true&width=1100&height=80&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
-Hi, I'm Yunus. I'm a university student and a full stack developer interested in web applications. I develop scalable web applications using React, Next.js, and Node.js, and mobile applications with React Native and Swift.<br>
+Hi, I'm Yunus. I'm a full stack developer interested in web applications. I develop scalable web applications using React, Next.js, and Node.js, and mobile applications with React Native and Swift.<br>
 <br/>
 
 
